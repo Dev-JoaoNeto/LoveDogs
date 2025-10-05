@@ -1,4 +1,4 @@
 <h1>Love Dogs</h1>
 <br>
 <br>
-<h2>Projetos de teste</h2>
+<h2>Projeto de teste</h2>
